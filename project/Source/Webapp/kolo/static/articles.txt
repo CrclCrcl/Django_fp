@@ -1,0 +1,14 @@
+///
+title: Dni otwarte 2023!
+content: Zobacz nasz udział podczas Dni otwartych na Wydziale Mechanicznym.
+href: events
+img: dotwarte.png
+///
+
+///
+title: Projekt zautomatyzowanej kasetki na leki wyposażonej w moduły komunikacyjne
+content: 
+href: projects
+img: kasetka.png
+///
+
